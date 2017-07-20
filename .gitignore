@@ -1,0 +1,10 @@
+/client/phz/frameworks/cosos2d-x/
+/client/phz/frameworks/cocos2d-html5/
+
+*/.idea/
+/client/publish
+*.Dir/
+*.apk
+client/frameworks/runtime-src/proj.android/bin
+
+client/frameworks/runtime-src/proj.android/bin/*.apk
